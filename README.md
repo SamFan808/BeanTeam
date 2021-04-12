@@ -13,7 +13,7 @@
   * [Creator Information](#creator)
 
   ## Installation:
-  > *To properly install this application, a user can run 'npm i' in the terminal to download all of the necessary dependencies. Then they can run 'npm start' to kick off the application*
+  > *To properly install this application, a user can run 'npm i' in the terminal to download all of the necessary dependencies. Then they can run 'npm start' to kick off the application* deployed app: https://feed-your-bean.herokuapp.com/
 
   ## Usage:
   > *To properly use this application, a user can run 'npm i' in the terminal to download all of the necessary dependencies. Then they can run 'npm start' to kick off the application.*
